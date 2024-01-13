@@ -55,6 +55,7 @@ p {
     margin: 0 30px;
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
+    z-index: 98;
 }
 
 .btn span {
